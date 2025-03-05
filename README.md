@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring boot project**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring boot & DSA**
 
 - 📫 How to reach me **shreyashgonge2411@gmail.com**
 
